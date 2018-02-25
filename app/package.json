@@ -1,0 +1,19 @@
+{
+  "name": "lamar_talks_code",
+  "version": "1.0.0",
+  "description": "My portfolio redesign",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamar133/LamarTalksCode.git"
+  },
+  "author": "Lamar Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamar133/LamarTalksCode/issues"
+  },
+  "homepage": "https://github.com/lamar133/LamarTalksCode#readme"
+}
